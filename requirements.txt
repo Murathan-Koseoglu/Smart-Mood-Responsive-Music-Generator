@@ -1,0 +1,12 @@
+# Versions documented for the original Python 3.10 project environment.
+# Actual installation may require platform-specific dependencies.
+customtkinter==5.2.1
+textblob==0.17.1
+yt-dlp==2024.4.9
+python-vlc==3.0.18122
+opencv-python==4.9.0.80
+fer==22.4.0
+SpeechRecognition==3.10.1
+PyAudio==0.2.13
+moviepy==1.0.3
+tensorflow==2.10.0
